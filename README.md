@@ -1,7 +1,14 @@
 Todo Management Application is a Spring Boot -React Full stack Application architecture. It manages the list of Todo's based on roles like user and admin. 
 
 Requirements:  
- - Build REST API's for Todo Management Module (Add, Get, Get all, update, delete, complete, incomplete)  
+ - Build REST API's for Todo Management Module (Add, Get, Get all, update, delete, complete, incomplete)
+ - Build Frontend React app to consume rest api's to perform operations like (add new todo, list all todos, update particular todo, delete tood, mark todo complete or incomplete)
+ - Secure all REST API's  using spring security and implement role based authorization
+ - Build Register and Login REST API's
+ - Build frontend for register and login rest api's to perform operations like register todo, login to todo app, logout.
+ - Secure rest api's using JWT(Json web token)
+
+
 
 
 Tech Stack used:  
