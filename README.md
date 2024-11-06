@@ -1,3 +1,5 @@
+Todo Management Application is a Spring Boot -React Full stack Application architecture. It manages the list of Todo's based on roles like user and admin.  
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
